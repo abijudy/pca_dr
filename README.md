@@ -8,4 +8,4 @@ In this repository you will find a python implementation for an efficient intrus
 
 
 
-[https://www.cse.wustl.edu/~jain/ehms/index.html] (boomer) Links to datasets are found below. For access to the pretrained models, please reach out to me (contact below). We will only supply the models to verified academic researchers.
+(boomer)[https://www.cse.wustl.edu/~jain/ehms/index.html] Links to datasets are found below. For access to the pretrained models, please reach out to me (contact below). We will only supply the models to verified academic researchers.
