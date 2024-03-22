@@ -8,4 +8,17 @@ In this repository you will find a python implementation for an efficient intrus
 
 
 
-(boomer)[https://www.cse.wustl.edu/~jain/ehms/index.html] Links to datasets are found below. For access to the pretrained models, please reach out to me (contact below). We will only supply the models to verified academic researchers.
+(boomer)[] Links to datasets are found below. For access to the pretrained models, please reach out to me (contact below). We will only supply the models to verified academic researchers.
+
+@inproceedings {236284,
+author = {Yisroel Mirsky and Tom Mahler and Ilan Shelef and Yuval Elovici},
+title = {CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning},
+booktitle = {28th {USENIX} Security Symposium ({USENIX} Security 19)},
+year = {2019},
+isbn = {978-1-939133-06-9},
+address = {Santa Clara, CA},
+pages = {461--478},
+url = {https://www.usenix.org/conference/usenixsecurity19/presentation/mirsky},
+publisher = {{USENIX} Association},
+month = aug,
+}
