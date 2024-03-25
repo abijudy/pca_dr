@@ -1,24 +1,17 @@
-**Overview**
+## Overview
 In this repository you will find a python implementation for an efficient intrusion detection system that uses Principal Component Analysis algorithm to reduce the dimensionality of a dataset across an IoMT environment.
 
 
 
 
-**Disclaimer:** This code has been published for research purposes only. It is our hope that with this code, others will be able to better understand cyber threats and find better ways to mitigate it.
+## Disclaimer
+This code has been published for research purposes only. It is our hope that with this code, others will be able to better understand cyber threats and find better ways to mitigate it.
 
 
+Links to datasets are found here.[Dataset](https://www.cse.wustl.edu/~jain/ehms/index.html) 
 
-(boomer)[] Links to datasets are found below. For access to the pretrained models, please reach out to me (contact below). We will only supply the models to verified academic researchers.
+## Citations
 
-@inproceedings {236284,
-author = {Yisroel Mirsky and Tom Mahler and Ilan Shelef and Yuval Elovici},
-title = {CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning},
-booktitle = {28th {USENIX} Security Symposium ({USENIX} Security 19)},
-year = {2019},
-isbn = {978-1-939133-06-9},
-address = {Santa Clara, CA},
-pages = {461--478},
-url = {https://www.usenix.org/conference/usenixsecurity19/presentation/mirsky},
-publisher = {{USENIX} Association},
-month = aug,
-}
+If you use the source code in any way, please cite:
+
+Judith, A.; Kathrine, G.J.W.; Silas, S.; J, A. Efficient Deep Learning-Based Cyber-Attack Detection for Internet of Medical Things Devices. Eng. Proc. 2023, 59, 139. https://doi.org/10.3390/engproc2023059139
